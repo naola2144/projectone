@@ -225,15 +225,16 @@ h6{
 .ccard{
     padding:5px;
     width:50%;
+    margin-left:32px;
 }
 .card{
-    margin-left: -94px;
+    margin-left: -104px;
 }
 .jj img{
     height:40%;
 }
 .cardd{
-    margin-left: -154px;
+    margin-left: -85px;
 }
 .jjj img{
     height:40%;
